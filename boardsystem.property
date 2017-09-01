@@ -1,0 +1,5 @@
+fcm.serverKey=AAAAebwiKKo:APA91bG_3A0H_tS2eEAOoNHoWtdLOOAcHdy6e9SNFW6OJsV8k_qwXNeJSgia49606bf8rE8CcQmMeiz49oNpA4xnUSgOyvuFpCsjzp5mWbL2GPrjFZlWwFSBYQXuTcxeHJr51Aou7M5q
+
+api.baseUrl=http://localhost:8080/
+
+file.baseDirectory=D:/boards
